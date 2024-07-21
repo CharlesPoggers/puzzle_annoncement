@@ -1,3 +1,4 @@
+**DESCRIPTION**
 Basic python script that receive a https://jiggie.fun/ABCDEF URL from the terminal and return in the clipboard a message to be pasted in a twitch chat
 
 At the start of the script, it randomly choses a message from this list
@@ -10,3 +11,7 @@ At the start of the script, it randomly choses a message from this list
 "/me It's your favorite time of the day, puzzle GANG ASSEMBLE 🧩Part {part_number} {link} 🧩"
 
 URL INput valdation: No empty string and must be a https://jiggie.fun/ABCDEF URL. Nothing else.
+
+**HOW TO SET IT UP**
+1) Clone the repo OR copy the puzzle)annoncement.py in notepad and save as a .py file
+2) Open the terminal 
