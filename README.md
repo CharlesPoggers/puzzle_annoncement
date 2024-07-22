@@ -13,5 +13,7 @@ At the start of the script, it randomly choses a message from this list
 URL INput valdation: No empty string and must be a https://jiggie.fun/ABCDEF URL. Nothing else.
 
 **HOW TO SET IT UP**
-1) Clone the repo OR copy the puzzle)annoncement.py in notepad and save as a .py file
-2) Open the terminal 
+1) Run the script in a terminal
+2) Paste the jiggie.fun link
+3) Paste the new message in chat
+4) Repeat until death
