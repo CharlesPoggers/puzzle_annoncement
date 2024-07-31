@@ -10,7 +10,7 @@ At the start of the script, it randomly choses a message from this list
 "/me PlunderMoneyWubby Look at me, I'm the puzzle captain now PlunderMoneyWubby 🧩Part {part_number} {link} 🧩"
 "/me It's your favorite time of the day, puzzle GANG ASSEMBLE 🧩Part {part_number} {link} 🧩"
 
-URL INput valdation: No empty string and must be a https://jiggie.fun/ABCDEF URL. Nothing else.
+URL Input valdation: No empty string and must be a https://jiggie.fun/ABCDEF URL. Nothing else.
 
 **HOW TO SET IT UP**
 https://imgur.com/a/pJJwJD9
